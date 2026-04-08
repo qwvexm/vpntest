@@ -1,2 +1,4 @@
+#profile-update-interval: 1
+#profile-title: 🍊 Orange VPN
 vless://AA-BB-CC@1.0.4.6:111?encryption=none&flow=xtls-rprx-vision&security=reality&sni=10.q&fp=ios&pbk=001&type=tcp&headerType=none#🚨ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ
 vless://AA-BB-CC@1.0.4.6:111?encryption=none&flow=xtls-rprx-vision&security=reality&sni=10.q&fp=ios&pbk=001&type=tcp&headerType=none#‼️РАБОТА СЕРВЕРОВ ПРИОСТАНОВЛЕНА
