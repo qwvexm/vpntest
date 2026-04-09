@@ -1,9 +1,7 @@
 #profile-update-interval: 1
 #profile-title: 🍊 Orange VPN
-#profile-Telegram: https://t.me/TEST
-Profile-Telegram: https://t.me/TEST
-Profile-Title: 1️⃣ Перед подключением нажми ⏱ — чтобы проверить пинг.\n2️⃣ Если нет соединения — нажми 🔄.
+#support-url: https://t.me/TEST
+#announce: 1️⃣ Перед подключением нажми ⏱ — чтобы проверить пинг.\n2️⃣ Если нет соединения — нажми 🔄.
+#subscription-userinfo: upload=0; total=0
 
 vless://d530621b-55f4-4935-b2b8-9432ea8b87cf@51.250.97.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-6-4.legendary-vpn.com&pbk=UZcUXcDWwIkPoLsqflKMGiFx50MERRpum96y-y5Dv1Q&sid=ffd676bc2a2657ef#🇪🇺 ТЕХНИЧЕСКИЙ СЕРВЕР
-Profile-Telegram: https://t.me
-Profile-Title: 1️⃣ Перед подключением нажми ⏱ — чтобы проверить пинг.\n2️⃣ Если нет соединения — нажми 🔄.
