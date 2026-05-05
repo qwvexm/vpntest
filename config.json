@@ -1,17 +1,4 @@
 #profile-update-interval: 1
 #profile-title: 🌏 Invisio
 #support-url: https://t.me/invisio_vpn
-#announce: base64:8J+aqCDQktC90LjQvNCw0L3QuNC1IQrinZfvuI8g0JIgMjEuMDAg0LTQsNC90L3Ri9C5INGB0LXRgNCy0LXRgCDQsdGD0LTQtdGCINC/0LXRgNC10LrQu9GO0YfQtdC9INC90LAg0YHQtdGA0LLQtdGA0LAg0Y/QvdC00LXQutGB0LAsINCy0YHRjyDQuNC90YTQvtGA0LzQsNGG0LjRjyDQsdGD0LTQtdGCINCyINGC0LXQu9C10LPRgNCw0Lwt0LrQsNC90LDQu9C1LiDinZfvuI8=
-vless://7f02d785319745b5a1d78e1a447ed6f7@51.250.42.243:443?security=reality&alpn=h2&encryption=none&pbk=30KDPgwtheCAac2ycqP14dHy4Sqorfgd3NKFpnFPWSs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=aabbccdd#🇷🇺 LTE — ВСЕ ОПЕРАТОРЫ
-vless://b74cac0d-3981-4344-af5c-6be7f201cd78@158.160.249.158:8443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sni=ads.x5.ru&fp=chrome&sid=cf4d&type=tcp&flow=xtls-rprx-vision#🇷🇺 LTE — МТС, Мегафон, Билайн, Т2
-vless://61bb7c74-09f7-4ab8-b5db-a8bac075884e@5.188.141.53:8443?security=reality&encryption=none&pbk=lwAdXwnwQs9L0FOGVbTbk373EgGE3J5AqTr2J3rNbh0&headerType=none&fp=chrome&spx=/golWLSnJbwrnmcDi&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ef1234#🇷🇺 LTE — Т2, Мегафон, Йота, МТС
-trojan://bb06e055ee5b4cb7a3a1e581bd7c09a2@51.250.7.178:9443?security=reality&pbk=vx5RK4STxuAX2947xfELORV0hnIFNxZFRgOtAVk1U3s&headerType=none&fp=random&allowinsecure=0&type=tcp&sni=ya.ru&sid=aabbccdd#🇷🇺 LTE — Билайн, РТК, МТС, Йота
-vless://75807638-6f19-0bb8-ae08-38492ee85c88@82.202.197.2:52006?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=1#🇷🇺 LTE — МТС, Мегафон, Билайн, Т2, Йота, РТК
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-005.fastervpn.world:443/?insecure=1&sni=vpn-jp-005.fastervpn.world#🇯🇵 Япония VPN ⚡️ 5 Гбит
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-005.fastervpn.world:443?headerType=none&encryption=none&sni=vpn-jp-005.fastervpn.world&insecure=1#🇯🇵 Япония VPN ⚡️ 5 Гбит
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-011.fastervpn.world:443/?insecure=1&sni=vpn-jp-011.fastervpn.world#🇱🇻 Латвия VPN
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-011.fastervpn.world:443?headerType=none&encryption=none&sni=vpn-jp-011.fastervpn.world&insecure=1#🇹🇼 Тайвань VPN
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443/?insecure=1&sni=vpn-tw-001.fastervpn.world#🇩🇪 Германия VPN ⚡️ 5 Гбит
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443?headerType=none&encryption=none&sni=vpn-tw-001.fastervpn.world&insecure=1#🇩🇪 Германия VPN
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@180.93.128.92:443?insecure=1&sni=vpn-vn-001.fastervpn.world#🇨🇿 Чехия VPN
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-vn-001.fastervpn.world:443?headerType=none&encryption=none&sni=vpn-vn-001.fastervpn.world&insecure=1#🇦🇹 Австрия VPN
+#announce: base64:8J+aqCDQlNC+0YHRgtGD0L8g0LfQsNC60YDRi9GCIQrinZfvuI/QlNC70Y8g0L/QvtC70YPRh9C10L3QuNGPINC/0L7QtNC/0LjRgdC60Lgg0L/QtdGA0LXQudC00LjRgtC1INCyINGC0LXQu9C10LPRgNCw0Lwt0LrQsNC90LDQuyDQuCDQv9C+0LTQutC70Y7Rh9C40YLQtSDQvtCx0L3QvtCy0LvQtdC90L3Ri9C5INGB0LXRgNCy0LXRgC7inZfvuI8K
